@@ -1,0 +1,9 @@
+.footerContainer{
+    background: black;
+    color: white;
+    flex-direction: column;
+}
+
+.footerInfo{
+    justify-content: space-evenly;
+}

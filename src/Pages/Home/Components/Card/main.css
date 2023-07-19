@@ -1,0 +1,9 @@
+.cardFl{
+    box-shadow: 4px 5px 9px grey;
+    text-align: center;
+    gap: 1rem;
+    padding: 3rem;
+    flex-direction: column;
+    align-items: center;
+    background: var(--white-bg);
+}

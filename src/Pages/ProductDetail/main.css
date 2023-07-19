@@ -1,0 +1,14 @@
+.bold_sm{
+    font-weight: 700;
+}
+
+.detailContainer{
+    padding: 15px;
+    background: rgb(255, 255, 255);
+    border-radius: 10px;
+    box-shadow: 0 3px 5px grey;
+}
+
+.detailImg{
+    max-width: 500px;
+}

@@ -1,0 +1,7 @@
+.nav{
+    position: sticky;
+    top: 0;
+    box-shadow: 4px 5px 9px grey;
+    z-index: 1;
+    background: var(--white-bg);
+}
