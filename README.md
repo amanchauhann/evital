@@ -34,7 +34,9 @@ $ npm start
 ## Demo Video
 
 
-https://user-images.githubusercontent.com/42478246/162221766-eaab1882-4da0-49d0-a333-0c53f94fb1dc.mp4
+https://github.com/amanchauhann/evital/assets/44115421/125cb4de-c92a-46a9-9451-fd14e16b5dd4
+
+
 
 
 
