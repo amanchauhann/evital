@@ -14,7 +14,7 @@ const Info = ({ heading, list }) => {
                 styleType={"none"}
                 textDecoration={"none"}
             >
-                {list.map((eachList, i) => <ListItem key={i}>{eachList}</ListItem>)}
+                {list.map((eachList, i) => <ListItem className="listItem" key={i}>{eachList}</ListItem>)}
             </UnorderedList>
         </Flex>
     )
