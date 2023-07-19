@@ -19,7 +19,7 @@ export const fakeFetch = (url) => {
                                 medicine_type: "drug",
                                 availability: "available",
                                 image:
-                                    "https://www.amavita.ch/media/catalog/product/cache/6df3047e3eeb71cb64f7a348d0dc085b/5/7/5798830-90-5798830-NOFORMAT.jpg",
+                                    "https://res.cloudinary.com/dojsq93dk/image/upload/f_auto,q_auto/u54b5puzp9rizlhyumtg",
                             },
                             {
                                 dosage_type: "Tablet",
@@ -32,7 +32,7 @@ export const fakeFetch = (url) => {
                                 manufacturer_name: "Bayer",
                                 medicine_type: "drug",
                                 availability: "available",
-                                image: "https://www.lagaay.com/uploads/f8/60/39/bd/lightbox-aspirine500.jpg",
+                                image: "https://res.cloudinary.com/dojsq93dk/image/upload/f_auto,q_auto/fh7aar7gzxczcxortcjp",
                             },
                             {
                                 dosage_type: "Capsule",
