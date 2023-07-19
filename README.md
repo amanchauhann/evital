@@ -9,7 +9,7 @@
 $ git clone https://github.com/amanchauhann/evital.git
 $ cd evital
 $ npm install
-$ npm start
+$ npm run dev
 ```
 
 ## Screens in this project
