@@ -31,6 +31,10 @@ $ npm start
 ## Live Link
 [eVital](https://evital.vercel.app/)
 
+## Screenshot
+![Web capture_20-7-2023_33444_evital vercel app](https://github.com/amanchauhann/evital/assets/44115421/771ceedb-5f34-4a3b-9be2-112d0bc7dbae)
+
+
 ## Demo Video
 
 
